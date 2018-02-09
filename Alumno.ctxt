@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Alumno
+comment1.params=nombreCompleto\ notaLengua\ notaMatematicas\ notaIngles
+comment1.target=Alumno(java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=double\ calcularMedia()
+comment3.params=
+comment3.target=boolean\ comprobarTodoAprobados()
+comment4.params=
+comment4.target=double\ getNotaMedia()
+numComments=5
